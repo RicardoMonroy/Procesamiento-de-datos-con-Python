@@ -1,0 +1,12 @@
+{
+    "Nombre": [
+        "Juan",
+        "Ana",
+        "Luis", None
+    ],
+    "Edad": [
+        25, None,
+        35,
+        28
+    ]
+}
