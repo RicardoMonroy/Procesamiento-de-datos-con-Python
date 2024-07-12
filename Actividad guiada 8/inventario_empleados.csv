@@ -1,0 +1,11 @@
+nombre,puesto,sueldo,fecha_ingreso,lider,departamento
+Juan Pérez,Gerente,75000,2015-06-01,N/A,Ventas
+Ana Gómez,Analista,50000,2018-09-15,Juan Pérez,TI
+Luis Martínez,Desarrollador,60000,2020-01-10,Ana Gómez,TI
+María Rodríguez,Gerente,80000,2014-12-20,N/A,Marketing
+Carlos García,Analista,52000,2019-03-30,Juan Pérez,TI
+Elena Fernández,Desarrollador,62000,2021-07-22,Ana Gómez,TI
+Pedro Sánchez,Gerente,77000,2013-11-18,N/A,Ventas
+Marta Díaz,Analista,53000,2017-05-25,Juan Pérez,TI
+José López,Desarrollador,63000,2020-10-14,Ana Gómez,TI
+Laura Torres,Gerente,79000,2016-08-05,N/A,Marketing

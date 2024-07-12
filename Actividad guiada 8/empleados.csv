@@ -1,0 +1,11 @@
+nombre,sueldo,fecha_ingreso,puesto_id_puesto,lider_id_lider,departamento_id_departamento
+Juan Pérez,75000,2015/06/01,1,1,1
+Ana Gómez,50000,2018/09/15,2,2,2
+Luis Martínez,60000,2020/01/10,3,3,2
+María Rodríguez,80000,2014/12/20,1,1,3
+Carlos García,52000,2019/03/30,2,2,2
+Elena Fernández,62000,2021/07/22,3,3,2
+Pedro Sánchez,77000,2013/11/18,1,1,1
+Marta Díaz,53000,2017/05/25,2,2,2
+José López,63000,2020/10/14,3,3,2
+Laura Torres,79000,2016/08/05,1,1,3
